@@ -1,22 +1,6 @@
-# Omnipay: Alipay
+# FCode: Alipay
 
-[![travis][ico-travis]][link-travis]
-[![Latest Version on Packagist][ico-version]][link-packagist]
-[![Total Downloads][ico-downloads]][link-downloads]
-[![Code Coverage][ico-code-coverage]][link-code-coverage]
-[![Software License][ico-license]](LICENSE)
-[![Donate][ico-donate-paypal]][link-donate-paypal]
-[![Donate][ico-donate]][link-donate]
-
-
-**Alipay driver for the Omnipay PHP payment processing library**
-
-[Omnipay](https://github.com/omnipay/omnipay) is a framework agnostic, multi-gateway payment
-processing library for PHP. This package implements Alipay support for Omnipay.
-
-> Cross-border Alipay payment please use [`lokielse/omnipay-global-alipay`](https://github.com/lokielse/omnipay-global-alipay)
- 
-> Legacy Version please use [`"lokielse/omnipay-alipay": "dev-legacy"`](https://github.com/lokielse/omnipay-alipay/tree/legacy)
+本项目原地址是[lokielse/omnipay-alipay](https://github.com/lokielse/omnipay-alipay),但目前作者貌似没有在维护了。项目中像使用这个库就有了我这个二次修改的版本。
 
 ## Installation
 
