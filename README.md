@@ -1,6 +1,6 @@
 # FCode: Alipay
 
-本项目原地址是[lokielse/omnipay-alipay](https://github.com/lokielse/omnipay-alipay),但目前作者貌似没有在维护了。项目中像使用这个库就有了我这个二次修改的版本。
+本项目原地址是[lokielse/omnipay-alipay](https://github.com/lokielse/omnipay-alipay),但目前作者貌似没有在维护了。项目中想使用这个库就有了我这个二次修改的版本。
 
 ## Installation
 
