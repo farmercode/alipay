@@ -2,17 +2,21 @@
 
 本项目原地址是[lokielse/omnipay-alipay](https://github.com/lokielse/omnipay-alipay),但目前作者貌似没有在维护了。项目中想使用这个库就有了我这个二次修改的版本。
 
-## Installation
+## Installation(安装)
 
-Omnipay is installed via [Composer](http://getcomposer.org/). To install, simply add it
-to your `composer.json` file:
+在`composer.json`文件中添加:
 
-    "lokielse/omnipay-alipay": "^2.0",
+    "fcode/alipay": "1.0.1",
 
-And run composer to update your dependencies:
+然后执行:
 
     $ composer update -vvv
 
+或者直接执行：
+
+    $ composer require fcode/alipay
+    
+    
 ## Basic Usage
 
 The following gateways are provided by this package:
